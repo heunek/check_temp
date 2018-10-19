@@ -7,4 +7,4 @@ setup(
     author = 'heunek',
     author_email = 'heunek@watership.de',
     url = 'watership.de,
-    py_modules = ['os'],
+    py_modules = ['os','sys','argparse'],
